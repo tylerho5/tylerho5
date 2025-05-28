@@ -30,7 +30,7 @@ My name is Tyler Ho and I'm a Data Science and Computer Science Major at Rutgers
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tylerho5/tylerho5/output/pacman-contribution-graph.svg">
 </picture>
 
-# Contact Me
+# 📫 Contact Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tyler-ho843494197/" target="_blank">
