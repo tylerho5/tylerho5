@@ -3,7 +3,7 @@
 
 
 <p align="left">
-My name is Tyler Ho and I'm a Data Science and Computer Science Major at Rutgers University New Brunswick. Go Knights!<br><br>I have extensive experience in machine learning, specializing in natural language processing (NLP). I've built ML projects in various languages including Python, R, and Java.<br><br>Recently I worked on a Natural Language to PostgreSQL query platform, building upon my experience working with RAG systems.<br><br>On my latest project (not published on my GitHub just yet) I'm learning how to work with cloud infrastructure (AWS EC2 and S3) and DevOps (Docker)<br><br>Currently seeking machine learning or related data science internship roles Summer or Fall 2025.<br><br>(READMEs for many of my projects are a work in progress.)
+My name is Tyler Ho and I'm a Data Science and Computer Science Major at Rutgers University New Brunswick. Go Knights!<br><br>I have extensive experience in machine learning, specializing in natural language processing (NLP). I've built ML projects in various languages including Python, R, and Java.<br><br>Recently I worked on a Natural Language to PostgreSQL query platform, building upon my experience working with RAG systems.<br><br>Currently interning at Chartmetric as an AI engineer, building RAG pipelines and autonomous agents.<br><br>(READMEs for many of my projects are a work in progress.)
 </p>
 
 # 🛠️ Skills & Tools
