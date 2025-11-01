@@ -3,7 +3,7 @@
 
 
 <p align="left">
-My name is Tyler Ho and I'm a Data Science and Computer Science Major at Rutgers University New Brunswick. Go Knights!<br><br>I have extensive experience in machine learning, specializing in natural language processing (NLP). I've built ML projects in various languages including Python, R, and Java.<br><br>Recently I worked on a Natural Language to PostgreSQL query platform, building upon my experience working with RAG systems.<br><br>Currently interning at Chartmetric as an AI engineer, building RAG pipelines and autonomous agents.<br><br>(READMEs for many of my projects are a work in progress.)
+Computer Science + Data Science at Rutgers University NB -- Go Knights! <br><br>Focused development in building AI agent systems and tool and context ecosystems for these systems.<br><br> READMEs for many of my projects are a work in progress.
 </p>
 
 # 🛠️ Skills & Tools
@@ -40,8 +40,6 @@ My name is Tyler Ho and I'm a Data Science and Computer Science Major at Rutgers
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -58,7 +56,7 @@ My name is Tyler Ho and I'm a Data Science and Computer Science Major at Rutgers
 # 📫 Contact Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tyler-ho843494197/" target="_blank">
+  <a href="https://www.linkedin.com/in/tylerho03/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
