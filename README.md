@@ -1,7 +1,3 @@
-<h1 align="left">Hi 👋</h1>
-
-
-
 <p align="left">
 Computer Science + Data Science at Rutgers University NB -- Go Knights! <br><br>Focused development in building AI agent systems and tool and context ecosystems for these systems.<br><br> READMEs for many of my projects are a work in progress.
 </p>
