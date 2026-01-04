@@ -41,7 +41,6 @@ Computer Science + Data Science at Rutgers University NB -- Go Knights! <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
-# 📊 GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tylerho5/tylerho5/output/pacman-contribution-graph-dark.svg">
