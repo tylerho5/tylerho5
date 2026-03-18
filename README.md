@@ -2,7 +2,7 @@
 Computer Science + Data Science at Rutgers University NB -- Go Knights! <br><br>Focused development in building AI agent systems and tool and context ecosystems for these systems.<br><br> READMEs for many of my projects are a work in progress.
 </p>
 
-# 🛠️ Skills & Tools
+# Skills & Tools
 
 ## Languages
 <div align="left">
