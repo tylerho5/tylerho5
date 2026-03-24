@@ -1,74 +1,32 @@
-<p align="left">
-Computer Science + Data Science at Rutgers University NB -- Go Knights! <br><br>Focused development in building AI agent systems and tool and context ecosystems for these systems.<br><br> READMEs for many of my projects are a work in progress.
-</p>
+# Hey, I'm Tyler
 
-# Skills & Tools
+CS + Data Science @ Rutgers University New Brunswick — Go Knights!
 
-## Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
+AI agents are my jam. Building skills, orchestration systems, context engineering patterns, etc.
 
-## Libraries and Frameworks
+Right now I'm focused on how to make agents genuinely useful: what context they need, how to structure skills so they're reusable, and how to get multiple agents working together without falling apart. 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
+## What I'm Working On
 
-## Tools
+AI engineering @ [Chartmetric](https://chartmetric.com), building agent-based tools to help with music data analysis and discovery.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+Personal projects:
+- **[claude-plugins](https://github.com/tylerho5/claude-plugins)** — Plugin marketplace for Claude Code — agent skills I built to streamline my own dev work. Includes spec-driven development, multi-agent orchestration, adversarial code review, and more
+- **[agent_template](https://github.com/tylerho5/agent_template)** — Boilerplate for a LangChain agent. Built for personal projects but I thought I'd share it here.
 
+## What I Think About
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tylerho5/tylerho5/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tylerho5/tylerho5/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tylerho5/tylerho5/output/pacman-contribution-graph.svg">
-</picture>
+>[Agent skills](https://agentskills.io/home) and how to design them well. Lots of slop out there, how can we make them more reusable and composable?
 
-# 📫 Contact Me
+>Context engineering — what to feed an agent and when. Lately i find this ties into skill design, since skills can enable agents to be more independent in retrieving and using context.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tylerho03/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+>Multi-agent orchestration, especially across different LLM providers. Check out claude-plugins for my latest experiments in this area. [This skill!](https://github.com/tylerho5/claude-plugins/tree/main/plugins/external-agent-orchestration) (Warning: it barely works for me even though i designed it for my system, but it's a fun proof of concept for now)
 
-###
+>Claude Code. i love Claude Code, my coding agent of choice. i'm always running at least 3 instances of CC at any one time. Love the platform Anthropic has built, and i'm excited to see how it evolves.
 
-<!--
-**tylerho5/tylerho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Harness engineering. [¹](#footnotes) How can we make real multi-purpose agents? Claude Code is lowk a great example of this now that skills are so rampantly created.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a id="footnotes"></a>
+¹ OpenAI has an [interesting blog](https://openai.com/index/harness-engineering/) discussing the harness engineering, which i consider to be the next evolution of agent design. Prompt engineering -> context engineering -> harness engineering.
