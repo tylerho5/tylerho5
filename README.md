@@ -29,4 +29,4 @@ Personal projects:
 ---
 
 <a id="footnotes"></a>
-¹ OpenAI has an [interesting blog](https://openai.com/index/harness-engineering/) discussing the harness engineering, which i consider to be the next evolution of agent design. Prompt engineering -> context engineering -> harness engineering.
+¹ OpenAI has an [interesting blog](https://openai.com/index/harness-engineering/) discussing harness engineering, which i consider to be the next evolution of agent design. Prompt engineering -> context engineering -> harness engineering.
