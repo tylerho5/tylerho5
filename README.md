@@ -6,15 +6,16 @@ AI agents are my jam. Building skills, orchestration systems, context engineerin
 
 Right now I'm focused on how to make agents genuinely useful: what context they need, how to structure skills so they're reusable, and how to get multiple agents working together without falling apart. 
 
-## What I'm Working On
+## What I'm working on
 
 AI engineering @ [Chartmetric](https://chartmetric.com), building agent-based tools to help with music data analysis and discovery.
 
 Personal projects:
+- **[skill-viewer](https://github.com/tylerho5/skill-viewer)** - npm package tool to spin up a clean web UI for viewing locally installed agent skills. TUI avail too!
 - **[claude-plugins](https://github.com/tylerho5/claude-plugins)** — Plugin marketplace for Claude Code — agent skills I built to streamline my own dev work. Includes spec-driven development, multi-agent orchestration, adversarial code review, and more
 - **[agent_template](https://github.com/tylerho5/agent_template)** — Boilerplate for a LangChain agent. Built for personal projects but I thought I'd share it here.
 
-## What I Think About
+## Things I'm always brainstorming on
 
 >[Agent skills](https://agentskills.io/home) and how to design them well. Lots of slop out there, how can we make them more reusable and composable?
 
